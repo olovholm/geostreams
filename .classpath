@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/core.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/glgraphics.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/json4processing.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/opengl.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/peasycam.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/simplefan.jar"/>
+	<classpathentry kind="lib" path="/Users/oclovhol/Dropbox/workspace/GeoWiMP/lib/Unfolding.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
